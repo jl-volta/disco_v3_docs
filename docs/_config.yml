@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Task Management System
+description: Documentation for the task management system used for coaching multiple companies
+show_downloads: false
+markdown: kramdown 
