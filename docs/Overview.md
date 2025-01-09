@@ -1,3 +1,9 @@
+---
+layout: default
+title: Overview
+nav_order: 1
+---
+
 # Team Coaching Task Manager - Project Overview
 
 ## Directory Structure

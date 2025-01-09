@@ -1,3 +1,10 @@
+---
+layout: default
+title: Milestone System
+parent: Features
+nav_order: 2
+---
+
 # Milestone System
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Company Management
+parent: Features
+nav_order: 3
+---
+
 # Company Management
 
 ## Overview
