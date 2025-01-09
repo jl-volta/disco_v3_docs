@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Task management system documentation for coaching multiple companies through defined business objectives"
+permalink: /
+---
+
 # Task Management System Documentation
 
 ## Overview
